@@ -20,4 +20,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2235-add-two-integers](https://github.com/sakshikumari01/Dsa-Practice/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/sakshikumari01/Dsa-Practice/tree/master/2413-smallest-even-multiple) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/sakshikumari01/Dsa-Practice/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
