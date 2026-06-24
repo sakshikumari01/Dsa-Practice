@@ -16,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0118-pascals-triangle) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/sakshikumari01/Dsa-Practice/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
