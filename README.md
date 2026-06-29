@@ -46,11 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
