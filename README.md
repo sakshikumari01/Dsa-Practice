@@ -60,4 +60,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0024-swap-nodes-in-pairs) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
