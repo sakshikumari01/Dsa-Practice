@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0268-missing-number) |
 | [2235-add-two-integers](https://github.com/sakshikumari01/Dsa-Practice/tree/master/2235-add-two-integers) |
