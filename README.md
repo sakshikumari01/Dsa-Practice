@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0118-pascals-triangle](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0268-missing-number) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0005-longest-palindromic-substring) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
