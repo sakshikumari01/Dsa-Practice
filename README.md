@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0342-power-of-four) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0342-power-of-four) |
 | [2235-add-two-integers](https://github.com/sakshikumari01/Dsa-Practice/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/sakshikumari01/Dsa-Practice/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/sakshikumari01/Dsa-Practice/tree/master/2469-convert-the-temperature) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0024-swap-nodes-in-pairs) |
+| [0342-power-of-four](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0342-power-of-four) |
 ## Tree
 |  |
 | ------- |
