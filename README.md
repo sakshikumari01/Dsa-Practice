@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0342-power-of-four) |
 | [2235-add-two-integers](https://github.com/sakshikumari01/Dsa-Practice/tree/master/2235-add-two-integers) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0342-power-of-four) |
 ## Tree
 |  |
