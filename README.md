@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0367-valid-perfect-square) |
 | [2235-add-two-integers](https://github.com/sakshikumari01/Dsa-Practice/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/sakshikumari01/Dsa-Practice/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/sakshikumari01/Dsa-Practice/tree/master/2469-convert-the-temperature) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0367-valid-perfect-square) |
 ## Sorting
 |  |
 | ------- |
