@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0125-valid-palindrome](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0125-valid-palindrome](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0125-valid-palindrome) |
 | [0415-add-strings](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0415-add-strings) |
 ## Divide and Conquer
 |  |
