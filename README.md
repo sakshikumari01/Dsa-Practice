@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0141-linked-list-cycle) |
+| [0205-isomorphic-strings](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0205-isomorphic-strings) |
 | [0415-add-strings](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0415-add-strings) |
 ## Divide and Conquer
 |  |
