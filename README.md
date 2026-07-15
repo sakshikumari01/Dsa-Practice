@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0050-powx-n) |
+| [0202-happy-number](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0367-valid-perfect-square) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0268-missing-number) |
 ## Binary Search
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0202-happy-number) |
 ## Recursion
 |  |
 | ------- |
