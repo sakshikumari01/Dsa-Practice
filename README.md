@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0367-valid-perfect-square) |
 ## Sorting
 |  |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
@@ -84,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Recursion
 |  |
 | ------- |
