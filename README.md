@@ -154,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0219-contains-duplicate-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
