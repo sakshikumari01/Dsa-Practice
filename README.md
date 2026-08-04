@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0196-delete-duplicate-emails) |
+| [0197-rising-temperature](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0584-find-customer-referee) |
 | [0607-sales-person](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0607-sales-person) |
 | [0608-tree-node](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0608-tree-node) |
