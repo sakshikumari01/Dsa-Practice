@@ -112,11 +112,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0113-path-sum-ii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0113-path-sum-ii) |
 ## Breadth-First Search
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0113-path-sum-ii) |
 ## Backtracking
@@ -171,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0608-tree-node](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0608-tree-node) |
 | [0610-triangle-judgement](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0610-triangle-judgement) |
 | [1251-average-selling-price](https://github.com/sakshikumari01/Dsa-Practice/tree/master/1251-average-selling-price) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
