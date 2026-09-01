@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -180,4 +183,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0094-binary-tree-inorder-traversal) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
