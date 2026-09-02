@@ -11,31 +11,39 @@
  */
 public class Solution {
     public ListNode detectCycle(ListNode head) {
-        if (head == null || head.next == null) {
-            return null;
-        }
 
         ListNode slow = head;
         ListNode fast = head;
+        // slow 1 step chalega
+        // fast 2 step chalega
 
-        // Detect cycle
         while (fast != null && fast.next != null) {
+
             slow = slow.next;
             fast = fast.next.next;
 
-            if (slow == fast) {
-                // Find starting node of cycle
-                ListNode start = head;
+            // Example:
+            // 3 → 2 → 0 → -4
+            
+            // slow aur fast ek point par mil gaye
+            // matlab cycle present hai
 
-                while (start != slow) {
-                    start = start.next;
+            if (slow == fast) {
+
+                slow = head;
+                // ek pointer head par wapas
+
+                while (slow != fast) {
                     slow = slow.next;
+                    fast = fast.next;
                 }
 
-                return start;
+                return slow;
+                // yahi cycle ka starting node hai
             }
         }
 
         return null;
+        // cycle nahi hai
     }
 }
