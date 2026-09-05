@@ -1,5 +1,4 @@
-# Write your MySQL query statement below
-SELECT
+SELECT 
     x,
     y,
     z,
