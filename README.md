@@ -120,12 +120,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 ## Backtracking
 |  |
 | ------- |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sakshikumari01/Dsa-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 ## Counting
 |  |
 | ------- |
